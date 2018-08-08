@@ -1,0 +1,4 @@
+/home/vnpy/vnpy/vn.ctp/build/CMakeFiles/rebuild_cache.dir
+/home/vnpy/vnpy/vn.ctp/build/CMakeFiles/vnctptd.dir
+/home/vnpy/vnpy/vn.ctp/build/CMakeFiles/edit_cache.dir
+/home/vnpy/vnpy/vn.ctp/build/CMakeFiles/vnctpmd.dir
